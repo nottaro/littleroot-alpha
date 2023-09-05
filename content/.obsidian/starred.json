@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Chemistry",
+      "path": "11Subjects/11Chemistry.md"
+    },
+    {
+      "type": "file",
+      "title": "Economics",
+      "path": "11Subjects/11Economics.md"
+    },
+    {
+      "type": "file",
+      "title": "Literature",
+      "path": "11Subjects/11Literature.md"
+    },
+    {
+      "type": "file",
+      "title": "Methods",
+      "path": "11Subjects/11Methods.md"
+    },
+    {
+      "type": "file",
+      "title": "Physics",
+      "path": "11Subjects/11Physics.md"
+    },
+    {
+      "type": "file",
+      "title": "Specialist",
+      "path": "11Subjects/11Specialist.md"
+    },
+    {
+      "type": "file",
+      "title": "_index",
+      "path": "_index.md"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1abb5dfd2815d8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9e5780def033a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11cf8b1840b7cfa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot 2023-08-28 at 9.13.13 pm.png"
+              }
+            }
+          },
+          {
+            "id": "77a18a67ecbeca27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e52ca65f97175cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c69a0e9fd0dffbea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7db37a02faebe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd0a37ff6cea33c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5022dafbba0b5bb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86bf5c2cff225b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e739aa10f68dcfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707175efd9f2f774",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Screenshot 2023-08-28 at 9.13.13 pm.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c653b71dafcdbb5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Screenshot 2023-08-28 at 9.13.13 pm.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fca3219a75f928e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9aff7b917be73ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Screenshot 2023-08-28 at 9.13.13 pm.png"
+              }
+            }
+          },
+          {
+            "id": "146413ff4648ffa5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ab7db37a02faebe7",
+  "lastOpenFiles": [
+    "11Economics/Inflation.md",
+    "11Physics/Heat.md",
+    "11Subjects/11Physics.md",
+    "Screenshot 2023-08-28 at 9.13.13 pm.png",
+    "conflict-files-obsidian-git.md",
+    "11Specialist/Induction.md",
+    "11Economics/IncomeDistribution.md",
+    "11Subjects/11Economics.md",
+    "kanb an test.md",
+    "NotTheTagArticles/04-08-2023-the-deepest-darkest-dungeon.md",
+    "NotTheTagArticles/28-08-2023.md",
+    "11Literature/Essay.md",
+    "11Literature/comparative-analysis.md",
+    "11Subjects/11Literature.md",
+    "11Subjects/11Literatr.md",
+    "Articles.md",
+    "_index.md",
+    "Untitled 2.md",
+    "Subjects.md",
+    "NotTheTagArticles/25-08-2023-a-list-of-emo-things.md",
+    "NotTheTagArticles/05-08-2023-some-movies-i-recommend-watching.md",
+    "11Chemistry/reaction-rates-and-collision-theory.md",
+    "11Subjects/11Chemistry.md",
+    "11Physics/Electricity.md",
+    "11Physics/SIS.md",
+    "11Physics/Circuits.md",
+    "icon.png",
+    "cupsmile.png",
+    "images/Screenshot 2023-08-16 at 9.57.10 am.png",
+    "Screenshot 2023-08-15 at 11.25.45 am.png",
+    "images/Screenshot 2023-08-09 at 5.26.14 pm.png",
+    "images/Screenshot 2023-08-08 at 12.58.49 pm.png",
+    "images/Pasted image 20230808124431.png",
+    "images/Pasted Graphic 2.png",
+    "images/Activation energy.png",
+    "NotTheTagsArticles",
+    "images/Bacteria Locations.pdf",
+    "tacoztreasures/penguin.mp4",
+    "tacoztreasures",
+    "10Biology"
+  ]
+}

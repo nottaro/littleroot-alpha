@@ -1,0 +1,12 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-green",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@cursor": "default",
+  "background-settings@@background-settings-workplace-background-image": true,
+  "background-settings@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-tokyo",
+  "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-tokyo",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option"
+}
